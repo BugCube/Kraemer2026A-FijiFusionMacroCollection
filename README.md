@@ -86,4 +86,4 @@ Manually concatenate the z and y gradient projections in the subfolders of F4 an
 Manually combine the t stacks into horizontal and vertical t stack montages and store them in the F5 and/or D5 folders (optional, but recommended).
 
 ### R)
-Delete intermediate files as desired, then compress all files using either TIFF-intrinsic compression or by zipping some or all folders (optional, but recommended). Rename files and sort into custom subfolders as needed.
+Delete intermediate files as needed, then compress all files using either TIFF-intrinsic compression or by zipping some or all folders (optional, but recommended). Rename files and sort into custom subfolders as appropriate.
